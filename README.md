@@ -40,7 +40,7 @@ MedioexV3 has 16ch isolated Digital Input. You must tie COM to field GND.
 | 11 | DI_15 |   BCM17 |
 | 7 | DI_16 |    BCM4 |
 
-![Image of MedIOEx-V3](http://pe2a.com/medioexV3/input.JPG)
+![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/input.JPG)
 
 ## Digital Output 
 MedIOExV3 provides SPI based Digital Output Control via Transistors. 
@@ -71,13 +71,13 @@ SPI output:
 | DO_15 | 9 |
 | DO_16 | 8 |
 
-![Image of MedIOEx-V3](http://pe2a.com/medioexV3/output.JPG)
+![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/output.JPG)
 
 ## Analog Input 
 MedIOExV3 uses MCP3208 (12bit) for analog inputs. 
 
 | Analog Input Channel   |     Channel Max. Voltage     |  
-|----------|:-------------:|------:|
+|----------|:-------------:|
 | AI_1 | 0-10V | 
 | AI_2 | 0-10V | 
 | AI_3 | 0-10V | 
