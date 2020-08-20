@@ -16,7 +16,7 @@ Improvements:
 
 Min. power Requirements: 24VDC, 1A
 
-![Image of MedIOEx-V3](http://pe2a.com/medioexV3/medioexV3.jpg)
+![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/medioexv3.JPG)
 
 ## Digital Input 
 MedioexV3 has 16ch isolated Digital Input. You must tie COM to field GND. 
