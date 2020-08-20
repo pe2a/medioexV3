@@ -18,7 +18,7 @@ Min. power Requirements: 24VDC, 1A
 
 ![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/medioexv3.jpg)
 
-*Fig. IO Mapping
+*Fig. IO Mapping*
 
 ## Digital Input 
 MedioexV3 has 16ch isolated Digital Input. You must tie COM to field GND. 
@@ -44,7 +44,7 @@ MedioexV3 has 16ch isolated Digital Input. You must tie COM to field GND.
 
 ![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/input.JPG)
 
-*Fig. Input Commissioning
+*Fig. Input Commissioning*
 
 ## Digital Output 
 MedIOExV3 provides SPI based Digital Output Control via Transistors. 
@@ -79,7 +79,7 @@ SPI output:
 
 ![Image of MedIOEx-V3](https://github.com/pe2a/medioexV3/blob/master/output.JPG)
 
-*Fig. Output Commissioning
+*Fig. Output Commissioning*
 
 ## Analog Input 
 MedIOExV3 uses MCP3208 (12bit) for analog inputs. 
